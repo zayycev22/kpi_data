@@ -1,4 +1,7 @@
 .idea
 venv
 catboost_info
+__pycache__/*
 __pycache__
+.git
+.Ds_Store
